@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    font-family: '';
+    /*height: 100%;*/
+}
+
+body {
+    background-image: linear-gradient(to bottom, #060606, #061113, #001F1C);
+    background-attachment: fixed;
+}
+
+main {
+    /*background-color: #082e29a1;*/
+    border-radius: 5px;
+    /*box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.733)*/;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 65px;
+}
+
+h1 {
+    color:#A76B45;
+    font: italic 3em 'Newsreading';
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 1px 1.5px 2px #06060696;
+}
+
+h2 {
+    color:#935337;
+    font-size: 2.2em;
+    text-shadow: 1px 1.5px 2px #06060696;
+}
+
+p {
+    color: #9D6D3F;
+    font-size: 1.5em;
+    text-align: justify;
+    
+}
